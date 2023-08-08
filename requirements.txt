@@ -4,4 +4,3 @@ pandas
 folium
 geopandas
 contextily
-shapely.geometry
