@@ -1,4 +1,7 @@
 matplotlib
 nltk
-gensim
 pandas
+folium
+geopandas
+contextily
+shapely.geometry
